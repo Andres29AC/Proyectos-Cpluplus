@@ -6,4 +6,5 @@ int main(){
 		cout<<"Practicando git"<<endl;
 		cout<<"repo c++!!"<<endl;
 		cout<<"cambios 2"<<endl;
+		cout<<"Cambio 3"<<endl;
 }
